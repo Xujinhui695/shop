@@ -12,3 +12,4 @@ ni hao ya shop
 
 测试冲突
 
+修改bug
